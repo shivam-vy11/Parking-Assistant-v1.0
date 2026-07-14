@@ -49,9 +49,9 @@ This combination of visual and audio feedback provides an intuitive parking assi
 
 ## Future Improvements
 
-- 🌈 Smoother RGB colour transitions
-- 📉 Distance averaging to reduce sensor fluctuations
-- 📦 Compact enclosure for real-world deployment
+-  Smoother RGB colour transitions
+-  Distance averaging to reduce sensor fluctuations
+-  Compact enclosure for real-world deployment
 
 ---
 
